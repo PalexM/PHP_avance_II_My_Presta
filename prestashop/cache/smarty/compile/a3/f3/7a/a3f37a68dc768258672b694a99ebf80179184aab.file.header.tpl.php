@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-02-20 11:15:39
+<?php /* Smarty version Smarty-3.1.19, created on 2018-02-20 14:07:31
          compiled from "C:\wamp64\www\rendu\PHP_avance_II_My_Presta\prestashop\themes\default-bootstrap\header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:183145a8c035bdc5766-20055502%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:282445a8c1d93564dc7-26350763%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     'a3f37a68dc768258672b694a99ebf80179184aab' => 
     array (
       0 => 'C:\\wamp64\\www\\rendu\\PHP_avance_II_My_Presta\\prestashop\\themes\\default-bootstrap\\header.tpl',
-      1 => 1517242832,
+      1 => 1519128465,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '183145a8c035bdc5766-20055502',
+  'nocache_hash' => '282445a8c1d93564dc7-26350763',
   'function' => 
   array (
   ),
@@ -58,10 +58,12 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a8c035c08cf75_04154810',
+  'unifunc' => 'content_5a8c1d9373e624_12501669',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a8c035c08cf75_04154810')) {function content_5a8c035c08cf75_04154810($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\wamp64\\www\\rendu\\PHP_avance_II_My_Presta\\prestashop\\tools\\smarty\\plugins\\function.implode.php';
+<?php if ($_valid && !is_callable('content_5a8c1d9373e624_12501669')) {function content_5a8c1d9373e624_12501669($_smarty_tpl) {?><?php if (!is_callable('smarty_function_implode')) include 'C:\\wamp64\\www\\rendu\\PHP_avance_II_My_Presta\\prestashop\\tools\\smarty\\plugins\\function.implode.php';
 ?>
+where are you ?
+
 <!DOCTYPE HTML>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7"<?php if (isset($_smarty_tpl->tpl_vars['language_code']->value)&&$_smarty_tpl->tpl_vars['language_code']->value) {?> lang="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['language_code']->value, ENT_QUOTES, 'UTF-8', true);?>
 "<?php }?>><![endif]-->
@@ -198,6 +200,7 @@ if (!empty($_capture_buffer)) {
 						<div class="container">
 							<div class="row">
 								<div id="header_logo">
+									<h1>Fuck You</h1>
 									<a href="<?php if (isset($_smarty_tpl->tpl_vars['force_ssl']->value)&&$_smarty_tpl->tpl_vars['force_ssl']->value) {?><?php echo $_smarty_tpl->tpl_vars['base_dir_ssl']->value;?>
 <?php } else { ?><?php echo $_smarty_tpl->tpl_vars['base_dir']->value;?>
 <?php }?>" title="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['shop_name']->value, ENT_QUOTES, 'UTF-8', true);?>

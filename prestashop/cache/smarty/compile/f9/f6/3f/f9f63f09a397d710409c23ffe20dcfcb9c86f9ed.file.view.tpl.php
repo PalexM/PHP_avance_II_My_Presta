@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2018-02-20 12:20:46
+<?php /* Smarty version Smarty-3.1.19, created on 2018-02-20 14:07:59
          compiled from "C:\wamp64\www\rendu\PHP_avance_II_My_Presta\prestashop\admin929jjqncy\themes\default\template\controllers\themes\helpers\view\view.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:306785a8c048e82b107-35030221%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:315325a8c1daf27f434-94054464%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '306785a8c048e82b107-35030221',
+  'nocache_hash' => '315325a8c1daf27f434-94054464',
   'function' => 
   array (
   ),
@@ -30,9 +30,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a8c048e8f9f00_67738391',
+  'unifunc' => 'content_5a8c1daf33a800_63532602',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a8c048e8f9f00_67738391')) {function content_5a8c048e8f9f00_67738391($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5a8c1daf33a800_63532602')) {function content_5a8c1daf33a800_63532602($_smarty_tpl) {?>
 <div class="alert alert-success">
     <button type="button" class="close" data-dismiss="alert">&times;</button>
     <?php echo smartyTranslate(array('s'=>sprintf('The "%1$s" theme has been successfully installed.',$_smarty_tpl->tpl_vars['theme_name']->value)),$_smarty_tpl);?>

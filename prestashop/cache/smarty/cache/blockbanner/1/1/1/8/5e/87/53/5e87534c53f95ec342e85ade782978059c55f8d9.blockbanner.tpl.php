@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '34215a8c061227b5e2-94189504',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5a8c09f8784b38_45090830',
+  'unifunc' => 'content_5a8c0f67b790c3_16657534',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a8c09f8784b38_45090830')) {function content_5a8c09f8784b38_45090830($_smarty_tpl) {?><a href="http://localhost/rendu/PHP_avance_II_My_Presta/prestashop/" title="">
+<?php if ($_valid && !is_callable('content_5a8c0f67b790c3_16657534')) {function content_5a8c0f67b790c3_16657534($_smarty_tpl) {?><a href="http://localhost/rendu/PHP_avance_II_My_Presta/prestashop/" title="">
 	<img class="img-responsive" src="http://localhost/rendu/PHP_avance_II_My_Presta/prestashop/modules/blockbanner/img/sale70.png" alt="" title="" width="1170" height="65" />
 </a>
 <?php }} ?>
